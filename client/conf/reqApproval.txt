@@ -1,0 +1,12 @@
+Hi Approver
+
+There is a request for sending file which needs your review and you may decide to approve or reject based on the following details
+
+txnId:txnid
+Approver(s):approvers
+sender:senderemail
+File:file
+Recipient(s) : recipientemail
+
+Sincerely
+Team nxp
